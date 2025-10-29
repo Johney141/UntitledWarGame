@@ -1,0 +1,14 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.sln
+*.log
+*.tmp
+*.bat
+*.cache
+*.db
+*.opendb
+*.DS_Store
