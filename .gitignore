@@ -1,14 +1,14 @@
-# Unreal Engine
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-.vscode/
-*.sln
-*.log
-*.tmp
-*.bat
-*.cache
-*.db
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
 *.opendb
-*.DS_Store
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
